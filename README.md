@@ -30,7 +30,7 @@ System Design
             6. Server broadcasts encrypted messages to all connected clients.
             7. Clients decrypt the received messages.
 
-            ![image](https://github.com/user-attachments/assets/b468d7f0-136d-46c3-98f0-4fd1c5b059b9)
+![image](https://github.com/user-attachments/assets/b468d7f0-136d-46c3-98f0-4fd1c5b059b9)
 
 
 Server Responsibilities:
