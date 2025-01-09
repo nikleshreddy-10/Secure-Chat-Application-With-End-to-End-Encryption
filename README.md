@@ -80,6 +80,15 @@ Encryption Techniques
       Decryption: Recovers plaintext using C1, C2, and private key.
 
 
+Server Prompt ( SEND , RECV Messages)
+![image](https://github.com/user-attachments/assets/52ba7801-7ca6-46c6-aa74-05d03d8b3040)
+
+
+Clients Prompt ( SEND , RECV, ENCRYPT, DECRYPT )
+![image](https://github.com/user-attachments/assets/4eac9136-925c-4724-b257-a7fffba8f72e)
+
+
+
    
 
 
