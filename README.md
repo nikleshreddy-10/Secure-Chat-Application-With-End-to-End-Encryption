@@ -79,6 +79,12 @@ Encryption Techniques
       Encryption: Generates ciphertext pairs (C1, C2).
       Decryption: Recovers plaintext using C1, C2, and private key.
 
+Server Console:
+      Displays active connections and logs sent/received messages.
+
+Client Console:
+      Allows message sending, encryption mode selection, and decryption.
+
 
 Server Prompt ( SEND , RECV Messages)
 ![image](https://github.com/user-attachments/assets/52ba7801-7ca6-46c6-aa74-05d03d8b3040)
@@ -86,14 +92,3 @@ Server Prompt ( SEND , RECV Messages)
 
 Clients Prompt ( SEND , RECV, ENCRYPT, DECRYPT )
 ![image](https://github.com/user-attachments/assets/4eac9136-925c-4724-b257-a7fffba8f72e)
-
-
-
-   
-
-
-Server Console:
-      Displays active connections and logs sent/received messages.
-
-Client Console:
-      Allows message sending, encryption mode selection, and decryption.
