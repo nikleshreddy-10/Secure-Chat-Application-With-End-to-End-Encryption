@@ -30,6 +30,7 @@ System Design
             6. Server broadcasts encrypted messages to all connected clients.
             7. Clients decrypt the received messages.
 
+            ![image](https://github.com/user-attachments/assets/b468d7f0-136d-46c3-98f0-4fd1c5b059b9)
 
 
 Server Responsibilities:
@@ -77,6 +78,9 @@ Encryption Techniques
       
       Encryption: Generates ciphertext pairs (C1, C2).
       Decryption: Recovers plaintext using C1, C2, and private key.
+
+
+   
 
 
 Server Console:
